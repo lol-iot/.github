@@ -1,1 +1,1 @@
-![lol-iot-logo](assets/logo.svg)
+![lol-iot-logo](/assets/logo.svg)
